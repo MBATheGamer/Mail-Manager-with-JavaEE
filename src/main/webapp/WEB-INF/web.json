@@ -1,0 +1,14 @@
+{
+  "web-app": {
+    "display-name": "EmailManagerMVC",
+    "welcome-file-list": [
+      {
+        "welcome-file": "index.jsp"
+      }
+    ],
+    "servlet": {
+      "servlet-name": "ListEmailServlet",
+      "servlet-class": "com.mailmanager.controllers.ListEmailServlet"
+    }
+  }
+}
